@@ -1,0 +1,11 @@
+.background-container {
+  align-content: center;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.background {
+  max-width: 100%;
+  min-height: 100px;
+  padding: 10px 80px 10px 80px;
+  margin: 0px;
+}
